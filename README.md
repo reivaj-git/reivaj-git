@@ -1,4 +1,4 @@
-https://github.com/reivaj-git/reivaj-git/raw/main/hero.png
+https://github.com/reivaj-git/raw/main/hero.png
 
 # ¡Hola! 👋 Soy Ricardo Mejía
 
