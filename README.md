@@ -1,16 +1,24 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Ricardo Mejía
 
-<!--
-**reivaj-git/reivaj-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi repositorio de GitHub! Soy un apasionado aprendiz en el mundo de la tecnología y aquí encontrarás proyectos relacionados con mi viaje de aprendizaje.
 
-Here are some ideas to get you started:
+## Acerca de mí
+Durante el 2023, comencé un emocionante viaje de aprendizaje con Academlo, lo que me ha permitido adquirir conocimientos en una variedad de tecnologías, incluyendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- JavaScript
+- CSS
+- Tailwind CSS
+- React
+- Node.js
+- Express
+- SQL
+
+Actualmente, estoy enfocado en aprender sobre QA Tester, mejorando mis habilidades en el área de aseguramiento de la calidad de software.
+
+## Contacto
+¡Me encantaría conectarme contigo! Puedes contactarme a través de mi correo electrónico: [javi26028@gmail.com](mailto:javi26028@gmail.com).
+
+Siéntete libre de explorar mis proyectos y contribuciones aquí en GitHub. ¡Gracias por visitar mi perfil!
+
+[![GitHub Followers](https://img.shields.io/github/followers/reivaj-git?style=social)](https://github.com/reivaj-git)
