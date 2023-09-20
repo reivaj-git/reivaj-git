@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Ricardo Mejía
 
-¡Bienvenido a mi repositorio de GitHub! Soy un apasionado aprendiz en el mundo de la tecnología y aquí encontrarás proyectos relacionados con mi viaje de aprendizaje.
+¡Bienvenido a mi repositorio de GitHub! Soy un apasionado del mundo de la tecnologia y soy un Desarrollador Front End  y aquí encontrarás proyectos relacionados con mi viaje de trabajo y aprendizaje.
 
 ## Acerca de mí
 Durante el 2023, comencé un emocionante viaje de aprendizaje con Academlo, lo que me ha permitido adquirir conocimientos en una variedad de tecnologías, incluyendo:
