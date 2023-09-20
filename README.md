@@ -1,4 +1,5 @@
-![img hero](https://drive.google.com/file/d/1010OyHifpIO7DYr5BrGy7LsD9xP1cnpC/preview)
+![img hero](https://github.com/reivaj-git/reivaj-git/blob/77ca420a5af540fcde47780f79bdfd47c8c1d353/hero.png)
+
 # ¡Hola! 👋 Soy Ricardo Mejía
 
 ¡Bienvenido a mi repositorio de GitHub! Soy un apasionado del mundo de la tecnologia y soy un Desarrollador Front End  y aquí encontrarás proyectos relacionados con mi viaje de trabajo y aprendizaje.
