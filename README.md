@@ -1,4 +1,4 @@
-![img hero](https://github.com/reivaj-git/reivaj-git/blob/77ca420a5af540fcde47780f79bdfd47c8c1d353/hero.png)
+![img hero](https://github.com/reivaj-git/reivaj-git/blob/bac7c8167149c812c00c779aa7eb24c3a465bd4c/hero.png)
 
 # ¡Hola! 👋 Soy Ricardo Mejía
 
